@@ -4,7 +4,7 @@ pageNumber: 34
 ---
 # Length
 
-It's easy in Javascript to know how many characters are in a string using the property `.length`. The `length` property returns the number of characters in the string, including spaces and special characters.
+It's easy in JavaScript to know how many characters are in a string using the property `.length`. The `length` property returns the number of characters in the string, including spaces and special characters.
 
 ```javascript
 

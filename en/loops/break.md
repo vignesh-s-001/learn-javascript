@@ -6,7 +6,7 @@ description: A break statement is used to break out of a loop whenever a specifi
 
 ## Break
 
-The loop ends when the condition specified for the loop becomes false. However we can end any loop forcibly by using the break statement.
+The loop ends when the condition specified for the loop becomes `false`. However, we can end any loop forcibly by using the break statement.
 
 ### Syntax
 

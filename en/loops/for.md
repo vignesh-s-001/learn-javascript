@@ -6,7 +6,7 @@ description: A for loop is a powerful control structure used to execute a block 
 
 ## For
 
-The easiest form of a loop is the for statement. This one has a syntax that is similar to an if statement, but with more options:
+The easiest form of a loop is the `for` statement. This one has a syntax that is similar to an if statement, but with more options:
 
 ### Syntax
 
